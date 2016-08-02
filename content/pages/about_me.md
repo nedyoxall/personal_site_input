@@ -1,10 +1,14 @@
-Title: My super title  
+Title: Test Glorious Test 
 Date: 2010-12-03 10:20  
 Modified: 2010-12-05 19:30  
 Category: Python  
 Tags: pelican, publishing  
 Slug: my-super-post  
-Authors: Alexis Metaireau, Conan Doyle  
-Summary: Short version for index and feeds  
+Authors: Ned 
+Summary: Testing!! 
 
-This is the content of my super blog post.
+# Warm barrels of custard
+
+With brandy.
+
+And mince pies.
