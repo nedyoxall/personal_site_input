@@ -1,2 +1,5 @@
 # Ignore the output folder as this is it's own repo
 output/
+
+# Apple stuff
+.DS_Store
