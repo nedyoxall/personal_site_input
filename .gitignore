@@ -2,4 +2,9 @@
 output/
 
 # Apple stuff
+*/.DS_Store
 .DS_Store
+content/.DS_Store
+
+# Jupyter checkpoints
+*/.ipynb_checkpoints

@@ -12,6 +12,7 @@ TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = u'en'
 
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -33,3 +34,13 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# Required for Jupyter notebook plugin - see https://github.com/danielfrg/pelican-ipynb
+MARKUP = ('md', 'ipynb')
+
+PLUGIN_PATHS = ['./plugins']
+PLUGINS = ['ipynb.markup']
+
+IGNORE_FILES = ['*-checkpoint.ipynb',
+                '.*/Very Basic Introduction to PyMC.ipynb']
+
