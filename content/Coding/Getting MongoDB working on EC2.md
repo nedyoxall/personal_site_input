@@ -35,5 +35,7 @@ Then on local computer:
 
 Also had to use AWS IP, rather than DNS name in SSH command above - I think this is because VPN was switched on.
 
+This was helpful too: http://serverfault.com/questions/597765/how-to-connect-to-mongodb-server-via-ssh-tunnel
+
 
 
