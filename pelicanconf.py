@@ -42,5 +42,7 @@ PLUGIN_PATHS = ['./plugins']
 PLUGINS = ['ipynb.markup']
 
 IGNORE_FILES = ['*-checkpoint.ipynb',
-                '.*/Very Basic Introduction to PyMC.ipynb']
+                '.*/Very Basic Introduction to PyMC.ipynb',
+                '.*/TODO.md',
+                '.*/git and ssh instructions.md']
 
